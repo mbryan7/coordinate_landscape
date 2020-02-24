@@ -17,7 +17,6 @@ function draw() {
 
     // draw here!
 strokeWeight(1)
-line()
 
 
 strokeWeight(2)
